@@ -1,0 +1,5 @@
+# Ignore all .ckpt files in current directory and subdirectories
+**/*.ckpt
+
+# Ignore any folder named 'scratch' and everything inside it
+pscratch/
